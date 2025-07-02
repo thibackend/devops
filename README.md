@@ -1,5 +1,6 @@
 # File permission
-## chmod
+## chmod (change mode of file, directory)
+
 - hôm nay tôi học về chmod và biết được cách chmod thay đổi quền của file như thế nào.
 
 Gồm: r(4) w(2) x(1)
@@ -24,5 +25,9 @@ x: folder
 x: file
 - not - run script (must have r+x) to run script
 - not - write file.
+
+## chown (change owner) file, directory
+
+
 
  
