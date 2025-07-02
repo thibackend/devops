@@ -1,0 +1,1 @@
+const var = "Hello world";
