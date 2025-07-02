@@ -16,4 +16,13 @@ w: folder - có thể thêm folder mới, rename, remove
 - remove không được
 
 x: folder
-- test trước
+- yes - cd  được
+- not - create (touch, mkdir) file | folder
+- not - list (ls)
+- not - run (script, binary, etc...)
+
+x: file
+- not - run script (must have r+x) to run script
+- not - write file.
+
+ 
